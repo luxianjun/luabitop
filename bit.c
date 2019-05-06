@@ -41,6 +41,9 @@ typedef unsigned __int64 uint64_t;
 #include <stdint.h>
 #endif
 
+/*add by luxianjun*/
+#define LUA_NUMBER_LONGLONG uint64_t
+
 typedef int32_t SBits;
 typedef uint32_t UBits;
 
